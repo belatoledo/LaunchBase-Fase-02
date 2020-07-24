@@ -1,0 +1,48 @@
+{% extends "layout.njk" %}
+
+{% block content %}
+    
+    <header>
+        <div class="links">
+            {% for contact in about.contacts %}            
+            <a href="{{contact.url}}" target="{{contact.target}}">{{contact.name}}</a>
+            {% endfor %}
+        </div>
+    </header>
+
+    <main>
+        <section class="about">
+            <div class="logo-name">
+                <img class="icon" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSmyAP5KjYSBu51jnv90MIX9wDMtmNrUfSrCz6dYyb-LbYjFHVV1GAshARFtyEi-fZRzb7PHccU52OD7H3r3t7zWR90FGjhMCj2qCWIqvJTNbmM_8kdg-WNUssDaHkgBgnST22tstz1PUz2mVxs4cY-jnFmsvCCNhpQmsul18_FbsKnklXfo1GsYdzsOlKcyssSur0QSXFyU0np8t8mh3NXvqu2f_vTp-8OF-yyIUq6DiZ4zsVDpd95mjuTjHM-MHZN-3Fkj_gbJ32oNkqHjTmd9fN10B_Mwp7WVeYYdV_1eGkHZ_-dVoPy3mPspQfpRTue0ST7lHA9P6il_saFoPcszcI__qr02QH5Kp-FbNPzQ2hAsyODdwR6RePgpWzOBH69-FPFRmYcnN4BrGf13SQlf8XlXhdxn-xZxouCMcFbOyBvhXgbspdFRIE&usqp=CAU" alt="Logo Rocketseat"><br>
+                <h1>Rocketseat</h1>
+            </div>
+            <div class="description">
+                <h2>Sobre</h2>
+                <p>{{about.description}}</p>
+            </div>
+        </section>
+
+
+        <h2>{{about.sub_title}}</h2>
+        
+        <ul>
+            {% for image in about.images %}
+            <li>
+                <img src="{{image.img}}" alt="{{image.name}}">
+            </li>
+            {% endfor %}            
+        </ul>
+                
+    </main>
+
+    <footer>
+        <div class="links"> 
+            {% for link in about.links %}
+            <a href="{{link.url}}" target="_balnk">
+                <img src="{{link.icon}}" alt="{{link.name}}">
+            </a>
+            {% endfor %}
+        </div>
+    </footer>
+
+{% endblock content %}    
