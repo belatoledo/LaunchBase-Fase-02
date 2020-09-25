@@ -79,10 +79,10 @@ strings no nome da empresa e seu endereço no seguinte formato:
 
   *A empresa Rocketseat está localizada em Rua Guilherme Gembala, 260*
 
-- [Resposta](Desafio1-2a.js)
+- [Resposta](desafio1-2a.js)
 <br>
 
-## :sparkles: Armazenar dados de um programador
+### :sparkles: Armazenar dados de um programador
 
  - Crie um programa com um objeto para armazenar dados de um programador como nome, 
 idade e tecnologias que trabalha.
@@ -97,7 +97,7 @@ utiliza no seguinte formato:
 
   *O usuário Carlos tem 32 anos e usa a tecnologia C++ com especialidade em Desktop*
 
-- [Resposta](Desafio1-2b.js)
+- [Resposta](desafio1-2b.js)
 
 <br>
 

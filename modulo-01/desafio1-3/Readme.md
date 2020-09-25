@@ -1,28 +1,32 @@
-<h1 align="center">
-    <img src="https://ik.imagekit.io/l7cwocexhc/LaunchBase_kzLdte5vZ.png">
-</h1>
-
 <h2 align="center">
   Desafio 01-3 - Funções e estruturas de repetição
 </h2>
 
-# Indice
+<p align="center">
+    <img src="https://ik.imagekit.io/l7cwocexhc/LaunchBase_kzLdte5vZ.png" width=300>
+</p>
 
-  - [🔖Sobre](#sobre)
-  - [📌Teoria aplicada](#-teoria-aplicada)
-  - [✨Usuários e tecnologias](#usuários-e-tecnologias)
-  - [✨Busca por tecnologias](#busca-por-tecnologias)
-  - [✨Soma de despesas e receitas](#soma-de-despesas-e-receitas)
+<p align="center">
+  <img alt="Made by Nadia Ligia" src="https://img.shields.io/badge/made%20by-Nadia%20Ligia-informational">
+  
+  <a href="license.md">
+  <img alt="License" src="https://img.shields.io/badge/License-MIT-informational">
+  </a>
+</p>
 
-# 🔖Sobre
+___
 
-Este projeto faz parte das atividades do curso **Bootcamp LaunchBase** e 
-visa desenvolver o conhecimento adquirido no estudo de funções, métodos,
-estrutura de repetições e escopo.
+<h3 align="center">
+  <a href="#pushpin-teoria-aplicada">Teoria</a>&nbsp;|&nbsp;
+  <a href="#rocket-desafios-propostos">Desafios</a>&nbsp;|&nbsp;
+  <a href="#memo-licença">Licença</a>
+</h3>
 
----
+___
 
-## 📌Teoria Aplicada
+<br>
+
+## :pushpin: Teoria Aplicada
 
 ### Estruturas de repetição (Loop)
 
@@ -88,9 +92,11 @@ function exibirNomeCarros(){
   }
 }
 ```
----
+<br>
 
-## ✨Usuários e tecnologias
+## :rocket: Desafios Propostos
+
+### :sparkles: Usuários e tecnologias
 - Crie um programa que armazena um array de usuários (objetos), cada usuário tem um nome 
   e suas tecnologias.
 - Percorra a lista de usuários com uma estrutura de repetição imprimindo em tela as informações dos usuários:
@@ -99,10 +105,11 @@ function exibirNomeCarros(){
     *Jarmine trabalha com JavaScript, CSS*<br>
     *Tuane trabalha com HTML, Node.js*
 
-<h4><i>Resposta: Desafio1-3a.js</i></h4>
----
+- [Resposta](desafio1-3a.js)
 
-## ✨Busca por tecnologias
+<br>
+
+### :sparkles: Busca por tecnologias
 
 - Baseado no desafio anterior crie uma função que rece os dados de um objeto de usuário e retorna se o usuário trabalha com CSS ou não.
 - Essa função deve retornar um boolean true/false.
@@ -113,8 +120,9 @@ function exibirNomeCarros(){
 - Se NÃO, imprima em tela:<br>
   *Ninguém trabalha com CSS*
 
-<h4><i>Resposta: Desafio1-3b.js</i></h4>
----
+- [Resposta](desafio1-3b.js)
+
+<br>
 
 ## ✨Soma de despesas e receitas
 
@@ -126,15 +134,18 @@ function exibirNomeCarros(){
   *Fulano possui saldo POSITIVO de 43.3*<br>
   *Sicrano possui saldo NEGATIVO de -90.3*<br>
 
-<h4><i>Resposta: Desafio1-3c.js</i></h4>
+- [Resposta](desafio1-3c.js)
 
----
 <br>
 
+##  :memo: Licença 
 
-<a href="../Readme.md">
-<img src="https://ik.imagekit.io/l7cwocexhc/iconfinder_agt_home_17821_M8bhUSrzv.ico" width="30">
-</a>
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
+<br>
 
-Desenvolvido 💖 por Nádia Ligia
+<p align="center">
+    <a href=".." >
+        <img src="https://ik.imagekit.io/l7cwocexhc/iconfinder_agt_home_17821_M8bhUSrzv.ico" width="30">
+    </a>
+</p>
