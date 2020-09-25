@@ -1,26 +1,32 @@
-<h1 align="center">
-    <img src="https://ik.imagekit.io/l7cwocexhc/LaunchBase_kzLdte5vZ.png">
-</h1>
-
 <h2 align="center">
   Desafio 01-2 - Lidando com objetos e vetores
 </h2>
 
-# Indice
+<p align="center">
+    <img src="https://ik.imagekit.io/l7cwocexhc/LaunchBase_kzLdte5vZ.png" width=300>
+</p>
 
-- [Indice](#indice)
-  - [🔖&nbsp; Sobre](#-sobre)
-  - [📌Teoria aplicada](#-teoria-aplicada)
-  - [✨Armazenamento de dados cadastrais](#-armazenamento-de-dados-cadastrais)
-  - [✨Armazenar dados de um programador](#-armazenar-dados-de-um-programador)
+<p align="center">
+  <img alt="Made by Nadia Ligia" src="https://img.shields.io/badge/made%20by-Nadia%20Ligia-informational">
+  
+  <a href="license.md">
+  <img alt="License" src="https://img.shields.io/badge/License-MIT-informational">
+  </a>
+</p>
 
-## 🔖&nbsp; Sobre
+___
 
-Este projeto faz parte das atividades do curso **Bootcamp LaunchBase** e visa desenvolver o conhecimento adquirido no estudo de objeto e vetores.
+<h3 align="center">
+  <a href="#pushpin-teoria-aplicada">Teoria</a>&nbsp;|&nbsp;
+  <a href="#rocket-desafios-propostos">Desafios</a>&nbsp;|&nbsp;
+  <a href="#memo-licença">Licença</a>
+</h3>
 
----
+___
 
-## 📌Teoria Aplicada
+<br>
+
+## :pushpin: Teoria Aplicada
 
 ### Objetos
 
@@ -56,9 +62,11 @@ navegadores[2] = 'Firefox'; // Índice 2
 navegadores[3] = 'Chrome'; // Índice 3
 navegadores[4] = 'Opera'; // Índice 4
 ```
----
+<br>
 
-## ✨Armazenamento de dados cadastrais
+## :rocket: Desafios Propostos
+
+### :sparkles: Armazenamento de dados cadastrais
 
 - Criar um programa que armazena dados da empresa Rocketseat dentro 
 de um objeto chamado empresa, com os seguintes dados: nome, cor, foco,
@@ -71,10 +79,10 @@ strings no nome da empresa e seu endereço no seguinte formato:
 
   *A empresa Rocketseat está localizada em Rua Guilherme Gembala, 260*
 
-<h4><i>Resposta: Desafio1-2a.js</i></h4>
----
+- [Resposta](Desafio1-2a.js)
+<br>
 
-## ✨Armazenar dados de um programador
+## :sparkles: Armazenar dados de um programador
 
  - Crie um programa com um objeto para armazenar dados de um programador como nome, 
 idade e tecnologias que trabalha.
@@ -89,15 +97,18 @@ utiliza no seguinte formato:
 
   *O usuário Carlos tem 32 anos e usa a tecnologia C++ com especialidade em Desktop*
 
-<h4><i>Resposta: Desafio1-2b.js</i></h4>
+- [Resposta](Desafio1-2b.js)
 
----
 <br>
 
+##  :memo: Licença 
 
-<a href="../Readme.md">
-<img src="https://ik.imagekit.io/l7cwocexhc/iconfinder_agt_home_17821_M8bhUSrzv.ico" width="30">
-</a>
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
+<br>
 
-Desenvolvido 💖 por Nádia Ligia
+<p align="center">
+    <a href=".." >
+        <img src="https://ik.imagekit.io/l7cwocexhc/iconfinder_agt_home_17821_M8bhUSrzv.ico" width="30">
+    </a>
+</p>
