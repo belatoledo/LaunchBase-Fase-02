@@ -88,7 +88,7 @@ Criar um programa para calcular o IMC e nível de obesidade de uma pessoa.
 - IMC >= 30 - pessoa acima do peso
 - Informar a pessoa se ela está ou não acima do peso
 
-- [Resposta](/desafio1-1a)
+- [Resposta](desafio1-1a)
 
 <br>
 
@@ -102,7 +102,7 @@ Criar um programa para calcular a aposentadoria de uma pessoa.
 - Utilizando a regra 85-95, a soma da idade com o tempo de contribuição do homem precisa ser de no mínimo 95 anos, enquanto a mulher precisa ter no mínimo 85 anos na soma;
 - Informar se a pessoa pode ou não se aposentar.
 
-- [Resposta](/desafio1-1b)
+- [Resposta](desafio1-1b)
 
 <br>
 
