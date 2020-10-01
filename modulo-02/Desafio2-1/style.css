@@ -1,7 +1,7 @@
 :root{
     --primary: #ebebeb;
     --second: #221f3b;
-    --third: #6f4a8e;
+    --third: #7d108b;
 }
 
 *{
@@ -29,6 +29,7 @@ a{
     font-size: 24px;
     color: var(--primary);
     cursor: pointer;
+    transition: all 0.5s ease-in-out;
 }
 
 a:hover{

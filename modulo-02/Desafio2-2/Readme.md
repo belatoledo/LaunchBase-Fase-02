@@ -1,52 +1,58 @@
-<h1 align="center">
-    <img src="https://ik.imagekit.io/l7cwocexhc/LaunchBase_kzLdte5vZ.png">
-</h1>
-
 <h2 align="center">
   Desafio 2-2 Página de descrição
 </h2>
 
-# Indice
-
-- [Sobre](#-sobre)
-- [Desafio proposto](#-desafio-proposto)
-- [Conteúdo extra](#-conteúdo-extra)
-
-
-## 🔖 Sobre
-
-Este desafio visa fixar e aprimorar os conhecimentos sobre os principais elementos do HTML e as propriedades do CSS.
-
----
-
-## 🚀 Desafio Proposto
-
-<h3>
-    A partir do arquivo do desafio 2-1, adicionar um novo link no header chamado Sobre. Essa página deverá mostrar informações referentes a Rocketseat.
-</h3>
-
-<p>
-    Requisitos obrigatórios:
+<p align="center">
+    <img src="https://ik.imagekit.io/l7cwocexhc/LaunchBase_kzLdte5vZ.png" width=300>
 </p>
 
-### Informações da página
+<p align="center">
+  <img alt="Made by Nadia Ligia" src="https://img.shields.io/badge/made%20by-Nadia%20Ligia-informational">
+  
+  <a href="license.md">
+  <img alt="License" src="https://img.shields.io/badge/License-MIT-informational">
+  </a>
+</p>
+
+___
+
+<h3 align="center">
+  <a href="#rocket-desafios-propostos">Desafios</a>&nbsp;|&nbsp;
+  <a href="#books-conteudo-extra">Extra</a>&nbsp;|&nbsp;
+  <a href="#memo-licença">Licença</a>
+</h3>
+
+___
+
+<br>
+
+## 🚀 Desafio Proposto
+<br>
+
+A partir do arquivo do desafio 2-1, adicionar um novo link no header chamado Sobre. Essa página deverá mostrar informações referentes a Rocketseat.
+
+ :white_check_mark: **Requisitos obrigatórios:**
+
+
+*Informações da página*
 - Uma imagem da logo da empresa
 - O nome da empresa
 - Uma breve descrição da empresa
 - Uma lista com as principais tecnologias utilizadas. Dica: utilize a tag ul para lista e li para o item da lista.
 - Links para as redes sociais da empresa (Github, Instagram e Facebook)
 
-### Estilização
+*Estilização*
 - A imagem deve ter uma borda e um formato circular.
 - Deve ser utilizada a fonte Roboto
 - O nome da empresa e a imagem devem ser destacar do restante
 - Os links das redes sociais devem ter alguma alteração visual quando o cursor do mouse passar por cima
 
----
+<br>
 
-## 📚 Conteúdo Extra
+## :books: Conteúdo Extra
+<br>
 
-### Imagens
+ :white_check_mark: **Imagens**
 
 As imagens podem ser inseridas no HTML através do upload dos arquivos na pasta do projeto ou através da inserção do link onde a imagem está hospedada.
 
@@ -71,10 +77,14 @@ Exemplos:
 ---
 <br>
 
+##  :memo: Licença 
 
-<a href="../Readme.md">
-<img src="https://ik.imagekit.io/l7cwocexhc/iconfinder_agt_home_17821_M8bhUSrzv.ico" width="30">
-</a>
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
+<br>
 
-Desenvolvido 💖 por Nádia Ligia
+<p align="center">
+    <a href=".." >
+        <img src="https://ik.imagekit.io/l7cwocexhc/iconfinder_agt_home_17821_M8bhUSrzv.ico" width="30">
+    </a>
+</p>

@@ -96,7 +96,7 @@ Além de converter a imagem é necessário incluir no *head* do seu html o segui
 Criar um arquivo html que contenha um favicon e um header com 3 links: Comunidade, Email e Telefone.
 <br><br>
 
-**Critérios Obrigatórios:**
+ :white_check_mark: **Critérios Obrigatórios:**
 
 *Links*
 - Comunidade: Link que deve apontar para o convite da comunidade aberta da rocketseat (https://discordapp.com/invite/gCRAFhc).
