@@ -17,8 +17,6 @@ for (let card of cards){
         posts.style.display = 'none'
         modalOverlay.style.display = 'flex'
         iframe.src = `https://blog.rocketseat.com.br/${cardId}-novas-features-no-javascript`
-
-  
     })
 }
 
@@ -30,4 +28,8 @@ close.addEventListener('click', ()=>{
 
 max.addEventListener('click', ()=>{
     iframe.classList.toggle('active')
+
+    if(iframe.classList == 'active'){
+        max.innerHTML = '❑'
+    }
 })
