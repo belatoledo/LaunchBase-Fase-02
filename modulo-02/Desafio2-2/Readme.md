@@ -33,7 +33,6 @@ A partir do arquivo do desafio 2-1, adicionar um novo link no header chamado Sob
 
  :white_check_mark: **Requisitos obrigatórios:**
 
-
 *Informações da página*
 - Uma imagem da logo da empresa
 - O nome da empresa
