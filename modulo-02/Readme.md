@@ -34,9 +34,9 @@ Desafios propostos para prática dos conhecimentos adquiridos no módulo.
 
 O módulo apresentou 3 desafios:
 
-- [Primeiro HTML](./desafio2-1)
-- [Página de descrição](./desafio2-2)
-- [Página de cursos e iframe](./desafio2-3)
+- [Primeiro HTML](/desafio2-1)
+- [Página de descrição](/desafio2-2)
+- [Página de cursos e iframe](/desafio2-3)
 
 <br>
 
