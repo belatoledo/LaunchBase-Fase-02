@@ -30,30 +30,31 @@ ___
     
 A partir do arquivo do desafio 2.2, adicionar no header um link chamado Conteúdos. 
 
-Essa página deve conter um grid onde devem ser mostrados os 3 principais cursos da Rocketseat: Starter, Launchbase e GoStack. 
+Essa página deve conter um grid onde devem ser mostrados os seus 3 posts favoritos do Blog da Rocketseat (Blog). 
 
-Ao clicar em um dos cursos, deve ser aberta uma modal onde um iframe irá carregar as informações do curso selecionado.
+Ao clicar em um dos posts, deve ser aberta uma modal onde um iframe irá carregar as informações do post selecionado.
 
 :white_check_mark: **Requisitos obrigatórios:**
 
 *Informações da página*
 - Título da página
-- Grid com 3 colunas e 1 linha onde serão apresentados os cards dos cursos
+- Grid com 3 colunas e 1 linha onde serão apresentados os cards dos posts
 
 *Informações do card*
-- Logo do curso (Starter, Launchbase e GoStack)
-- Título do curso
-- Quantidade de módulos dos cursos
-- Informação se o curso é gratuito ou pago
+- Imagem de destaque do Post [Tutorial de como pegar os links das imagens](https://youtu.be/f4aS9ZULm4A)
+- Título do Post
+- Autor do Post
+- Tempo de Leitura
 
 *Modal*
--O modal deve conter um iframe que busca a página do curso (dica: basta adicionar starter, launchbase ou gostack ao final de https://rocketseat.com.br/). - Além do botão de fechar o modal, é preciso implementar a funcionalidade de maximizar o modal.
+- O modal deve conter um iframe que busca a página do post (dica: basta adicionar o Slug - versão padronizada do título - ao final de https://blog.rocketseat.com.br/, por exemplo, axios-um-cliente-http-full-stack). 
+- Além do botão de fechar o modal, é preciso implementar a funcionalidade de maximizar o modal (dica: utilize a mesma lógica implementada para fechar o modalOverlay, mas trabalhe com a classe modal e utilize o método contains do classList para verificar se o elemento está ou não com a classe maximize).
 
 *Estilização*
 - Você tem liberdade para escolher a estilização que preferir para esse desafio, mas alguns pontos são obrigatórios:
 
-- Deve ser utilizado o grid para organizar os cursos
-O modal nunca deve abrir maximizado
+- Deve ser utilizado o grid para organizar os posts
+- O modal nunca deve abrir maximizado
 
 <br>
 
