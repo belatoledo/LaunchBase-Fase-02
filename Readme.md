@@ -35,6 +35,7 @@ ___
 
 - [Módulo 1 - Introdução a Programação WEB](./modulo-01)
 - [Módulo 2 - Iniciando no Front-end](./modulo-02)
+- [Foodfy](https://github.com/nlnadialigia/LaunchBase-Foodfy)
 - [Módulo 3 - Iniciando no Back-end](./modulo-03)
 
 
