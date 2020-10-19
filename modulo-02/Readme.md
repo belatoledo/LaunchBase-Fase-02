@@ -47,7 +47,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 <br>
 
 <p align="center">
-    <a href="../Readme.md" >
+    <a href="https://github.com/nlnadialigia/LaunchBase-Fase-02.git" >
         <img src="https://ik.imagekit.io/l7cwocexhc/iconfinder_agt_home_17821_M8bhUSrzv.ico" width="30">
     </a>
 </p>
