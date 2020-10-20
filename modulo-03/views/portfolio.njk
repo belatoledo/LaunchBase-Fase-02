@@ -1,20 +1,6 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Conteúdo</title>
-    <link rel="shortcut icon" href="../assets/favicon.ico" type="image/x-icon">
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <header>
-        <a href="index.html">Home</a>
-        <a href="about.html">Sobre</a>
-        <a href="https://discordapp.com/invite/gCRAFhc" target="__blank">Comunidade</a>
-        <a href="malito: oi@rocketseat.com.br">Email</a>
-        <a href="tel: +5547992078767">Telefone</a>
-    </header>
+{% extends "layout.njk" %}
+
+{% block content %}
 
     <main>
         <div class="posts">
@@ -48,7 +34,7 @@
         </div>
     </div>
 
-    <script src="script.js"></script>
-</body>
-</html>
+    <script src="/script.js"></script>
+
+{%endblock %}
 
