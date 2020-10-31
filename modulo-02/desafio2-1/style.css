@@ -1,0 +1,38 @@
+:root{
+    --primary: #ebebeb;
+    --second: #221f3b;
+    --third: #7d108b;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background: var(--primary);
+}
+
+header{
+    background-color: var(--second);
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+
+a{
+    text-decoration: none;
+    font-size: 24px;
+    color: var(--primary);
+    cursor: pointer;
+    transition: all 0.5s ease-in-out;
+}
+
+a:hover{
+    font-size: 32px;
+    color: var(--third);
+}

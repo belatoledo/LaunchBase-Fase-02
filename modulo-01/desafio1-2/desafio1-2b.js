@@ -1,12 +1,13 @@
-const data = {
-    programmer: 'Carlos',
-    age: '32',
-    technologies:[
-        {name: 'C++', specialty: 'Desktop'},
-        {name: 'Python', specialty: 'Data Science'},
-        {name: 'JavaScript', specialty: 'Web/Mobile'}
-    ]
+const technology = [
+    { name: 'C++', expertise: 'Desktop' },
+    { name: 'Python', expertise: 'Data Science' },
+    { name: 'JavaScript', expertise: 'Web/Mobile' }
+]
+
+const dev = {
+    name: 'Antonio',
+    age: 34,
+    technology: technology[1]
 }
 
-
-console.log(`O usuário ${data.programmer} tem ${data.age} e usa a tecnologia ${data.technologies[0].name} com especialidade em ${data.technologies[0].specialty}`);
+console.log(`O usuário ${dev.name} tem ${dev.age} e usa a tecnologia ${dev.technology.name} com expertise em ${dev.technology.expertise}.`);

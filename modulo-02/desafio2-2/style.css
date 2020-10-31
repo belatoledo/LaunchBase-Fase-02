@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+:root{
+    --primary: #dfd9d9;
+    --second: #1c0235;
+    --third: #d40521;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 960px;
+    /* height: 100vh; */
+    margin: auto;
+    font-family: 'Roboto', sans-serif;
+    background: var(--primary);
+    color: var(--second);
+}
+
+header{
+    padding: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+a{  
+    color: var(--second);
+    text-decoration: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+    transition: linear 1s ease-in-out;
+}
+
+a:hover{
+    font-weight: 500;
+    color: var(--third);
+    
+}
+
+main{
+    margin: 2rem;
+}
+
+.logo{
+    text-align: center;
+    margin-bottom: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+
+.logo img{
+    width: 7rem;
+    border-radius: 50%;
+    background: black;
+}
+
+.logo h1{
+    font-size: 4rem;
+    font-weight: 700;
+}
+
+.details{
+    font-size: 1.5rem;
+    line-height: 2.5rem;
+    text-align: justify;
+    font-style: italic;
+}
+
+.details p{
+    margin-bottom: 1rem;
+}
+
+.dev{
+    text-align: center;
+}
+
+.dev img{
+    width: 10rem;
+    margin-left: 2rem;
+}
+
+footer{
+    text-align: center;
+}
+
+footer img{
+    width: 3rem;
+    margin-left: 2rem;
+    cursor: pointer;
+}
+
+footer img:hover{
+    transform: scale(1.3);
+}

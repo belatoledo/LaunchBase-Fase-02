@@ -1,25 +1,33 @@
-<h1 align="center">
-    <img src="https://ik.imagekit.io/l7cwocexhc/LaunchBase_kzLdte5vZ.png">
-</h1>
-
 <h2 align="center">
   Desafio 01-1 - Primeiros passos com js
 </h2>
 
-# Indice
+<p align="center">
+    <img src="https://ik.imagekit.io/l7cwocexhc/LaunchBase_kzLdte5vZ.png" width=300>
+</p>
 
-- [🔖Sobre](#-sobre)
-- [📌Teoria aplicada](#📌-teoria-aplicada)
-- [✨Cálculo de IMC](#✨-cálculo-de-imc)
-- [✨Cálculo de Aposentadoria](#✨-cálculo-de-aposentadoria)
+<p align="center">
+  <img alt="Made by Nadia Ligia" src="https://img.shields.io/badge/made%20by-Nadia%20Ligia-informational">
+  
+  <a href="license.md">
+  <img alt="License" src="https://img.shields.io/badge/License-MIT-informational">
+  </a>
+</p>
 
-## 🔖&nbsp; Sobre
+___
 
-Este projeto faz parte das atividades do curso **Bootcamp LaunchBase** e visa praticar os conhecimentos teóricos do módulo.
+<h3 align="center">
+  <a href="#pushpin-teoria-aplicada">Teoria</a>&nbsp;|&nbsp;
+  <a href="#rocket-desafios-propostos">Desafios</a>&nbsp;|&nbsp;
+  <a href="#memo-licença">Licença</a>
+</h3>
 
----
+___
 
-## 📌 Teoria Aplicada
+<br>
+
+##  :pushpin: Teoria Aplicada
+<br>
 
 ### Condicional IF ELSE
 
@@ -65,39 +73,47 @@ if (favoriteColor == 'purple'){
     console.log ('Essa não é minha cor favorita!')
 }
 ```
----
+<br>
 
-## ✨ Cálculo de IMC
+## :rocket: Desafios
+<br>
+
+### ✨ Cálculo de IMC
 
 Criar um programa para calcular o IMC e nível de obesidade de uma pessoa.
 
-<h3><b>Premissas</b></h3>
+**Premissas**
 
 - IMC = peso / (altura*altura);
 - IMC >= 30 - pessoa acima do peso
 - Informar a pessoa se ela está ou não acima do peso
 
-<h4><i>Resposta: Desafio1-1a.js</i></h4>
----
+- [Resposta](desafio1-1a.js)
 
-## ✨ Cálculo de Aposentadoria
+<br>
+
+### ✨ Cálculo de Aposentadoria
 
 Criar um programa para calcular a aposentadoria de uma pessoa.
 
-<h3><b>Premissas</b></h3>
+**Premissas**
 
 - O tempo de contribuição mínimo para homens é de 35 anos e, para mulheres, 30 anos;
 - Utilizando a regra 85-95, a soma da idade com o tempo de contribuição do homem precisa ser de no mínimo 95 anos, enquanto a mulher precisa ter no mínimo 85 anos na soma;
 - Informar se a pessoa pode ou não se aposentar.
 
-<h4><i>Resposta: Desafio1-1b.js</i></h4>
+- [Resposta](desafio1-1b.js)
 
----
 <br>
 
+##  :memo: Licença 
 
-<a href="../Readme.md">
-<img src="https://ik.imagekit.io/l7cwocexhc/iconfinder_agt_home_17821_M8bhUSrzv.ico" width="30">
-</a>
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-Desenvolvido 💖 por Nádia Ligia
+<br>
+
+<p align="center">
+    <a href=".." >
+        <img src="https://ik.imagekit.io/l7cwocexhc/iconfinder_agt_home_17821_M8bhUSrzv.ico" width="30">
+    </a>
+</p>
